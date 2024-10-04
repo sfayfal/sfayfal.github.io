@@ -16,5 +16,5 @@
 ## My interests 
 I have a deep passion for cooking that allows me to explore various cuisines and experiment with flavors. I love trying out new recipes, especially those that highlight seasonal ingredients and I find joy in blending traditional techniques with modern twists. Cooking not only serves as a creative outlet for me but also as a way to bring friends and family together around the table, sharing stories and making lasting memories over a home-cooked meal.
 ## Websites I Recommend
-[LinkedIn](https://www.linkedin.com) - LinkedIn is a professional networking site for career and job opportunities.
-[Amazon](https://www.amazon.com) - Amazon is an online retail giant for purchasing a variety of products.
+* [LinkedIn](https://www.linkedin.com) - LinkedIn is a professional networking site for career and job opportunities.
+* [Amazon](https://www.amazon.com) - Amazon is an online retail giant for purchasing a variety of products.
